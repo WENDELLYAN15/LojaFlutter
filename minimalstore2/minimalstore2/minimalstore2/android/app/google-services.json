@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "740662855417",
+    "project_id": "sakura-loja",
+    "storage_bucket": "sakura-loja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740662855417:android:d97a48a1e7a46843794428",
+        "android_client_info": {
+          "package_name": "br.com.dtec.loja.minimalstore2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5o8NlOZRCQP5P0K0CHR4rVE3Ak6CZSiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
